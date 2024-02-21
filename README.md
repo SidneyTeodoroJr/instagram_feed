@@ -27,7 +27,7 @@
    ```shell
    flet -r main.py
 
-Após executar o script principal, a interface do feed do Instagram será exibida. Você pode interagir com os posts clicando nos botões de curtir, comentar e salvar.
+Após executar o script principal, a interface do feed do Instagram será exibida. Você pode interagir clicando nos botões de curtir, comentar e salvar.
 </br>
 
 ## Estrutura do Projeto
