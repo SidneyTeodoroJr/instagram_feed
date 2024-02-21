@@ -7,7 +7,7 @@
 </br>
 </br>
 
- O projeto consiste em uma aplicação que simula o feed do Instagram. Ele exibe posts com imagens, informações de usuário, legendas, botões interativos e campos de comentários. Os usuários podem interagir com os posts, curtindo, comentando e salvando-os.
+ O projeto consiste em uma aplicação que simula o feed do Instagram. Ele exibe um post com uma imagem, informação do usuário, legendas, botões interativos e um campo de comentário.
 </br>
 
 ## Tecnologias usadas
@@ -20,7 +20,7 @@
 1. Instale as dependências necessárias:
    ```shell
    pip install requirements.txt
-2. Entre na pasta `app`
+2. Entre na pasta `app`:
    ```shell
    cd app
 3. Execute o script Python:
