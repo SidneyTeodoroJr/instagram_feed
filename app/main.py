@@ -13,7 +13,7 @@ def main(page:ft.page):
     page.vertical_alignment = ft.MainAxisAlignment.CENTER
     page.horizontal_alignment = ft.CrossAxisAlignment.CENTER
     page.window_minimizable = False
-    page.window_maximizable = False
+    page.window_maximizable = True
 
     
     # Adicionado elementos a página
