@@ -17,18 +17,26 @@
 ## Como usar
 </br>
 
-1. Instale as dependências necessárias:
+1. Crie um ambiente virtual:
+   ```shell
+   python -m venv feed
+3. Ative o ambiente:
+   ```shell
+   feed/Scripts/Activate.ps1
+5. Instale as dependências necessárias:
    ```shell
    pip install requirements.txt
-2. Entre na pasta `app`:
+6. Entre na pasta `app`:
    ```shell
    cd app
-3. Execute o script Python:
+7. Execute o script Python:
    ```shell
    flet -r main.py
-
-Após executar o script principal, a interface do feed do Instagram será exibida. Você pode interagir clicando nos botões de curtir, comentar e salvar.
+   
 </br>
+Após executar o script principal, a interface do feed do Instagram será exibida. Você pode interagir clicando nos botões de curtir, comentar e salvar.
+
+Caso queira desativar o ambiente virtual: `deactivate`
 
 ## Estrutura do Projeto
 </br>
